@@ -16,6 +16,11 @@
  * specific language governing permissions and limitations
  * under the License.
  */
+ /*
+ Lisensi Non-commercial use
+ Admin@sastrahost.com
+ www.sastrahost.com
+ */
 var app = {
     // Application Constructor
     initialize: function() {
